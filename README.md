@@ -32,3 +32,5 @@ this is forked branch
 //
 
 깃 충돌 해결
+
+this is main repo. 깃 충돌 테스트2

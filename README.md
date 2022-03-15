@@ -24,5 +24,11 @@ fetch test
 머지테스트
 2 commit ahead
 
+//
+this is main repo.
+
 fetch and merge test
 this is forked branch
+//
+
+깃 충돌 해결

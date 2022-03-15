@@ -32,3 +32,6 @@ this is forked branch
 //
 
 깃 충돌 해결
+
+메인 레포에 업데이트가 안되려면.
+pull request?
